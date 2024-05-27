@@ -3,7 +3,7 @@ FROM tiangolo/uwsgi-nginx:python3.8-alpine-2020-12-19
 
 # Set the port on which the app runs; make both values the same.
 #
-# IMPORTANT: When deploying to Azure App Service, go to the App Service on the Azure
+# IMPORTANT: When deploying to Azure App Service, go to the App Service on the Azure 
 # portal, navigate to the Applications Settings blade, and create a setting named
 # WEBSITES_PORT with a value that matches the port here (the Azure default is 80).
 # You can also create a setting through the App Service Extension in VS Code.
